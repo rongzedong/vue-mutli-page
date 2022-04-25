@@ -3,6 +3,8 @@ vuejs mutli page cli. vuejs的多页脚手架 演示。 vuejs的各种脚手架�
 
 这个例子用到了 vuejs vue-router elemeui ，以及其他一些自动引入的依赖插件。 
 
+本例采用的是 vuejs2  vue-router@3 而没有采用最新的版本，因为还要考虑一些老旧系统的应用。 就算如此，也已经不再支持过低的 chrome版本了。  相互兼容总是个麻烦的事。并不能让所有的 xp都升级，一些网络还在使用 xp系统。 常常因为写好的代码到了 xp的 chrome里，运行异常。 本例作为入门，还是推荐学习 vuejs2 这个广泛流传的版本。 当然，如果不需要考虑兼容过老的系统，还是建议直接学习 vuejs3 的。
+
 ## Project setup
 ```
 npm install
